@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# script/test: Run the suite of tests. Will watch for file changes to continuously run tests during development.
+
+scripts/build
+
+./node_modules/.bin/grunt watch & ./node_modules/karma/bin/karma start karma.js
