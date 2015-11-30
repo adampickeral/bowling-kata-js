@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# script/update: Resolve all dependencies required for development
+
+npm update
