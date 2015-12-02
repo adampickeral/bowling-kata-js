@@ -6,8 +6,8 @@ Run `scripts/setup` to install dependencies needed to transpile js and run tests
 Run `scripts/test` to run tests. This will leave the test runner running while watching for code changes.
 
 ### Katas
-1. [Bowling](BOWLING.md)
-2. [Game of Life](GAMEOFLIFE.md)
+1. [Bowling](katas/BOWLING.md)
+2. [Game of Life](katas/GAMEOFLIFE.md)
 
 ### Kata Constraints
 Firstly, the goal of all code written should aim to satisfy the four principles of simple design:
