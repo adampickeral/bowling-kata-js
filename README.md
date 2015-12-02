@@ -1,5 +1,4 @@
-# bowling-kata-js
-Code Katas in Javascript
+# Code Katas in Javascript
 
 ### Setup and Tests
 Run `scripts/setup` to install dependencies needed to transpile js and run tests
