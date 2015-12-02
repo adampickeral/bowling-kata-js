@@ -14,6 +14,7 @@ Write a program that will calculate the total score for a game of bowling when g
 
 ### Tests
 Here are some test strings, along with expected output, that can be used as input:
+
 1. `'12345123451234512345'` : `60`
 2. `'1-3451234512345-2345'` : `57`
 3. 'heartbreak' `'9-9-9-9-9-9-9-9-9-9-'` : `90`

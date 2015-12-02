@@ -10,6 +10,15 @@ Run `scripts/test` to run tests. This will leave the test runner running while w
 2. [Game of Life](GAMEOFLIFE.md)
 
 ### Kata Constraints
+Firstly, the goal of all code written should aim to satisfy the four principles of simple design:
+
+1. Passes all the tests
+2. Expresses every idea that we need to express
+3. Says everything once and only once
+4. Has no superfluous parts
+
+Secondly, here are some constraints you can apply to your coding session to help drive you towards different aspects of simple design:
+
 1. TDD (you should always do this)
 2. No `if` statements
 3. No loops
